@@ -1,4 +1,4 @@
-# Generador de password
+# Generador de Password
 
 ## Presentación
 
